@@ -28,7 +28,6 @@ int Classifier::createAlphabet(const vector<Instance>& vecInsts) {
 		feat.clear();
 		extractFeature(feat, pInstance);
 
-		const vector<string> &words = pInstance->m_tweet;
 		const string &label = pInstance->m_label;
 
 		m_driver._modelparams.labelAlpha.from_string(label);
