@@ -1,7 +1,7 @@
 MaxEntropy
 ===
-HOW TO COMPILE THIS PROJECT IN WINDOWS
----
+#HOW TO COMPILE THIS PROJECT IN WINDOWS
+
 * Step 0: Open cmd, and change directory to project directory. </br> Use this command `cd /your/project/path/MaxEntropy`. </br>
 * Step 1: Create a new directory in MaxEntropy. Use this command `mkdir build` </br>
 * Step 2: Change your directory. Use this command `cd build`. </br>
